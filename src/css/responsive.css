@@ -1,0 +1,29 @@
+@media (max-width: 1420px){
+    body .cabecalho{
+        width: 325px;
+        margin: 40px auto;
+    }
+
+    .cabecalho h2{
+        font-size: 25px;
+    }
+    .caixas{
+        flex-direction: column;
+    }
+
+    .caixas li div{
+        max-width: 375px;
+        max-height: 280px;
+    }
+
+    .caixas li div h3{
+        font-size: 20px;
+    }
+
+    .caixas li div p{
+        font-size: 12px;
+    }
+
+
+
+}
